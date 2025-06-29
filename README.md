@@ -1,4 +1,4 @@
-# Machine Learning Case Studies
+# EDA and Machine Learning Case Studies
 
 This repository contains three end-to-end Jupyter notebooks illustrating common supervised and unsupervised learning workflows on public datasets:
 
